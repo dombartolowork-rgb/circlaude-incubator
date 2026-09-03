@@ -21,7 +21,7 @@ Raise these with IT as **one** request:
 In Claude Code:
 
 ```
-/plugin marketplace add https://github.com/<this repo>
+/plugin marketplace add https://github.com/dombartolowork-rgb/circlaude-incubator
 /plugin install circlaude@circlaude
 ```
 

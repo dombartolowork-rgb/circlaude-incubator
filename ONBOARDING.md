@@ -22,7 +22,7 @@ Raise these with IT as **one** request, not three:
 In PowerShell:
 
 ```powershell
-git clone https://github.com/dombartolowork-rgb/circlaude.git $HOME\CirClaude
+git clone https://github.com/dombartolowork-rgb/circlaude-incubator.git $HOME\CirClaude
 cd $HOME\CirClaude
 bin\circle login
 ```
@@ -58,7 +58,7 @@ Teamwork > your avatar > Edit My Details > API & Mobile:
 In Claude Code:
 
 ```
-/plugin marketplace add https://github.com/dombartolowork-rgb/circlaude
+/plugin marketplace add https://github.com/dombartolowork-rgb/circlaude-incubator
 /plugin install circlaude@circlaude
 ```
 
